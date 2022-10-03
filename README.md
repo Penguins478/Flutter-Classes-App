@@ -1,2 +1,3 @@
-# basicFlutterWorkshop_app
-Repository for Basic Flutter Workshop.
+# Flutter App
+Repository for Classes App.
+Made at Purdue's Flutter Development Club.
